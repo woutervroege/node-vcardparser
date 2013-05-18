@@ -1,6 +1,6 @@
 {
   "name": "vcardparser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse vCard into JSON",
   "author": {
     "name": "Wouter Vroege",
@@ -9,6 +9,10 @@
   "dependencies": {
 	  "fs" : ""
   },
-  "main": "/lib/vcardparser.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/woutervroege/node-vcardparser.git"
+  },
+  "main": "lib/vcardparser.js",
   "_id": "vcardparser@1.0.0"
 }

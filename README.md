@@ -4,13 +4,25 @@ parse vCard into JSON
 
   
 
-
+	/*
+	parse from file
+	*/
     var vcardparser = require('vcardparser');
     vcardparser.parseFile(__dirname + "/johndoe.vcf", function(err, json) {
 		if(err)
 			return console.log(err);
 		console.log(json);
 	})
+
+	/*
+	parse from string
+	*/
+    vcardparser.parseString(vcarddata, function(err, json) {
+		if(err)
+			return console.log(err);
+		console.log(json);
+	})
+	
 
 
 ### Installation
