@@ -31,7 +31,7 @@ parse vCard into JSON
 
 ### Examples
 
-    $ node examples/server
+    $ node example/server
 
 
 ### License
