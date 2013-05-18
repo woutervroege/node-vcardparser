@@ -1,0 +1,14 @@
+{
+  "name": "vcardparser",
+  "version": "1.0.0",
+  "description": "Parse vCard into JSON",
+  "author": {
+    "name": "Wouter Vroege",
+    "email": "wouter@woutervroege.nl"
+  },
+  "dependencies": {
+	  "fs" : ""
+  },
+  "main": "/lib/vcardparser.js",
+  "_id": "vcardparser@1.0.0"
+}

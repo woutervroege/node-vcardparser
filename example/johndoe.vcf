@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.8.2//EN
+N:Doe;John;;;
+FN:John Doe
+ORG:Doe Inc.;
+TITLE:CEO
+EMAIL;type=INTERNET;type=HOME;type=pref:me@johndoe.com
+TEL;type=CELL;type=VOICE;type=pref:0123456789
+ADR;type=HOME;type=pref:;;101 Main Street;Sim City;;1234;
+NOTE:Some notes\,\n\nMore notes...
+item1.URL;type=pref:www.johndoe.com
+item1.X-ABLabel:_$!<HomePage>!$_
+X-AIM;type=HOME;type=pref:@johndoe
+IMPP;X-SERVICE-TYPE=AIM;type=HOME;type=pref:aim:@johndoe
+UID:a6795dee-117f-4256-9a46-26775bfd4604
+X-ABUID:ED6FE137-B6AA-484A-AF53-059B7985430C:ABPerson
+END:VCARD
