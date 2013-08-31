@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "Parse vCard into JSON",
   "author": {
-    "name": "Wouter Vroege,
+    "name": "Wouter Vroege",
     "email": "wouter@woutervroege.nl"
   },
   "dependencies": {
